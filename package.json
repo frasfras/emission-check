@@ -1,20 +1,20 @@
 {
-  "name": "node-red-microservice",
+  "name": "emissiond-microservice",
   "version": "0.0.1",
-  "description": "Example low-code microservice with Node Red",
+  "description": " microservice with Node Red",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/low-code-microservices-with-node-red/example-microservice.git"
+    "url": "git+https://github.com/frasfras/emission-check.git"
   },
   "keywords": [
     "microservice",
     "node-red"
   ],
-  "author": "Siddhartha Lahiri",
+  "author": "f",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/low-code-microservices-with-node-red/example-microservice/issues"
